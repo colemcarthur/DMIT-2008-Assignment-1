@@ -1,0 +1,232 @@
+[
+    {
+        "productName": "Fresh Mint",
+        "brand": "Nestle",
+        "category": "Snacks",
+        "price": 3.99,
+        "quantity": 38,
+        "barcode": "2194651227393",
+        "nutritionalFacts": "Per Serving:\nCalories: 120\nProtein: 1g\nCarbohydrates: 28g\nFat: 0g",
+        "imageIndex": "1"
+    },
+    {
+        "productName": "Dill Pickles",
+        "brand": "Wolski",
+        "category": "Snacks",
+        "price": 2.49,
+        "quantity": 90,
+        "barcode": "7054685633091",
+        "nutritionalFacts": "Per Serving:\nCalories: 10\nProtein: 0.5g\nCarbohydrates: 2g\nFat: 0g",
+        "imageIndex": "2"
+    },
+    {
+        "productName": "Rice Vinegar",
+        "brand": "Kikkoman",
+        "category": "Condiments",
+        "price": 4.99,
+        "quantity": 34,
+        "barcode": "5202039180622",
+        "nutritionalFacts": "Per Serving:\nCalories: 5\nProtein: 0g\nCarbohydrates: 1g\nFat: 0g",
+        "imageIndex": "3"
+    },
+    {
+        "productName": "Red Wine, Antinori Santa",
+        "brand": "Santa Margherita",
+        "category": "Beverages",
+        "price": 29.99,
+        "quantity": 100,
+        "barcode": "2759422910816",
+        "nutritionalFacts": "Per Serving (5 oz):\nCalories: 120\nAlcohol: 14%\nResveratrol: 15mg",
+        "imageIndex": "4"
+    },
+    {
+        "productName": "Oyster Sauce",
+        "brand": "Lee Kum Kee",
+        "category": "Condiments",
+        "price": 5.49,
+        "quantity": 17,
+        "barcode": "5073234518190",
+        "nutritionalFacts": "Per Serving:\nCalories: 30\nProtein: 1g\nCarbohydrates: 6g\nFat: 0g",
+        "imageIndex": "5"
+    },
+    {
+        "productName": "Turkey Legs",
+        "brand": "Butterball",
+        "category": "Meat",
+        "price": 12.99,
+        "quantity": 47,
+        "barcode": "9784665951526",
+        "nutritionalFacts": "Per Serving:\nCalories: 180\nProtein: 20g\nCarbohydrates: 0g\nFat: 10g",
+        "imageIndex": "6"
+    },
+    {
+        "productName": "Beef Tenderloin",
+        "brand": "Cargill",
+        "category": "Meat",
+        "price": 18.99,
+        "quantity": 66,
+        "barcode": "5866024438129",
+        "nutritionalFacts": "Per Serving:\nCalories: 160\nProtein: 22g\nCarbohydrates: 0g\nFat: 8g",
+        "imageIndex": "7"
+    },
+    {
+        "productName": "Chicken",
+        "brand": "Tyson",
+        "category": "Meat",
+        "price": 7.99,
+        "quantity": 95,
+        "barcode": "4429372403369",
+        "nutritionalFacts": "Per Serving:\nCalories: 40\nProtein: 10g\nCarbohydrates: 0g\nFat: 0.5g",
+        "imageIndex": "8"
+    },
+    {
+        "productName": "Oreo Cookie",
+        "brand": "Mondelez International",
+        "category": "Snacks",
+        "price": 6.99,
+        "quantity": 87,
+        "barcode": "6336167572438",
+        "nutritionalFacts": "Per Serving:\nCalories: 50\nProtein: 1g\nCarbohydrates: 10g\nFat: 2g",
+        "imageIndex": "9"
+    },
+    {
+        "productName": "Cheddar Cheese, Mild",
+        "brand": "Kraft",
+        "category": "Dairy",
+        "price": 4.49,
+        "quantity": 24,
+        "barcode": "4464014047201",
+        "nutritionalFacts": "Per Serving (1 oz):\nCalories: 110\nProtein: 7g\nCarbohydrates: 1g\nFat: 9g",
+        "imageIndex": "10"
+    },
+    {
+        "productName": "Tortellini",
+        "brand": "Longo's",
+        "category": "Pasta",
+        "price": 8.99,
+        "quantity": 37,
+        "barcode": "6899570125990",
+        "nutritionalFacts": "Per Serving (1 cup cooked):\nCalories: 220\nProtein: 9g\nCarbohydrates: 38g\nFat: 3g",
+        "imageIndex": "11"
+    },
+    {
+        "productName": "Radish",
+        "brand": "FreshCo",
+        "category": "Vegetables",
+        "price": 1.49,
+        "quantity": 78,
+        "barcode": "2291146677612",
+        "nutritionalFacts": "Per Serving (1/2 cup):\nCalories: 10\nProtein: 0.5g\nCarbohydrates: 2g\nFat: 0g",
+        "imageIndex": "12"
+    },
+    {
+        "productName": "Sultanas",
+        "brand": "Sun-Maid",
+        "category": "Dried Fruits",
+        "price": 3.29,
+        "quantity": 89,
+        "barcode": "6633883304368",
+        "nutritionalFacts": "Per Serving (1/4 cup):\nCalories: 90\nProtein: 1g\nCarbohydrates: 23g\nFat: 0g",
+        "imageIndex": "13"
+    },
+    {
+        "productName": "Eggroll",
+        "brand": "Ling Ling",
+        "category": "Frozen Foods",
+        "price": 6.49,
+        "quantity": 14,
+        "barcode": "1572293103114",
+        "nutritionalFacts": "Per Serving (1 egg roll):\nCalories: 170\nProtein: 6g\nCarbohydrates: 18g\nFat: 9g",
+        "imageIndex": "14"
+    },
+    {
+        "productName": "Carrot Muffin",
+        "brand": "Thomas' Bakery",
+        "category": "Bakery",
+        "price": 2.99,
+        "quantity": 79,
+        "barcode": "8579715629832",
+        "nutritionalFacts": "Per Serving:\nCalories: 150\nProtein: 2g\nCarbohydrates: 28g\nFat: 4g",
+        "imageIndex": "15"
+    },
+    {
+        "productName": "Gouda Cheese",
+        "brand": "Dutch Farms",
+        "category": "Dairy",
+        "price": 5.99,
+        "quantity": 49,
+        "barcode": "9279505529010",
+        "nutritionalFacts": "Per Serving (1 oz):\nCalories: 110\nProtein: 7g\nCarbohydrates: 0g\nFat: 9g",
+        "imageIndex": "16"
+    },
+    {
+        "productName": "Teriyaki Sauce",
+        "brand": "Kikkoman",
+        "category": "Condiments",
+        "price": 3.79,
+        "quantity": 42,
+        "barcode": "1532213468399",
+        "nutritionalFacts": "Per Serving:\nCalories: 20\nProtein: 0g\nCarbohydrates: 5g\nFat: 0g",
+        "imageIndex": "17"
+    },
+    {
+        "productName": "Pasta Shells, Medium, Dry",
+        "brand": "Barilla",
+        "category": "Pasta",
+        "price": 2.49,
+        "quantity": 34,
+        "barcode": "6468702704635",
+        "nutritionalFacts": "Per Serving (2 oz dry):\nCalories: 200\nProtein: 7g\nCarbohydrates: 42g\nFat: 1g",
+        "imageIndex": "18"
+    },
+    {
+        "productName": "Goulash Seasoning",
+        "brand": "McCormick",
+        "category": "Spices",
+        "price": 4.99,
+        "quantity": 56,
+        "barcode": "8693231857648",
+        "nutritionalFacts": "Per Serving:\nCalories: 10\nProtein: 0g\nCarbohydrates: 2g\nFat: 0g",
+        "imageIndex": "19"
+    },
+    {
+        "productName": "Campbells Soup",
+        "brand": "Campbell's",
+        "category": "Canned Soup",
+        "price": 2.99,
+        "quantity": 57,
+        "barcode": "6249647588313",
+        "nutritionalFacts": "Per Serving (1 cup):\nCalories: 150\nProtein: 5g\nCarbohydrates: 15g\nFat: 8g",
+        "imageIndex": "20"
+    },
+    {
+        "productName": "Parmigiano Cheese",
+        "brand": "Parmigiano Reggiano",
+        "category": "Dairy",
+        "price": 9.99,
+        "quantity": 1,
+        "barcode": "1577933156497",
+        "nutritionalFacts": "Per Serving (1 oz):\nCalories: 110\nProtein: 10g\nCarbohydrates: 0g\nFat: 7g",
+        "imageIndex": "21"
+    },
+    {
+        "productName": "Apple",
+        "brand": "Nature's Best",
+        "category": "Fruits",
+        "price": 0.99,
+        "quantity": 23,
+        "barcode": "1234567890123",
+        "nutritionalFacts": "Per Serving (1 medium apple):\nCalories: 95\nProtein: 0.5g\nCarbohydrates: 25g\nFat: 0.3g",
+        "imageIndex": "22"
+    },
+    {
+        "productName": "Salami",
+        "brand": "Delizioso",
+        "category": "Meat",
+        "price": 5.99,
+        "quantity": 16,
+        "barcode": "7890123456789",
+        "nutritionalFacts": "Per Serving (1 slice):\nCalories: 70\nProtein: 3g\nCarbohydrates: 0g\nFat: 6g",
+        "imageIndex": "23"
+    }
+]

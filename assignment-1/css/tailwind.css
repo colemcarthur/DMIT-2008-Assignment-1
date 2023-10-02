@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'Barcode';
+    src: url('/fonts/BarcodeFont.ttf') format('truetype')
+}
+
+.barcode {
+    font-family: 'Barcode';
+    font-size: 3rem
+}

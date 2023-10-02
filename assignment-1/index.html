@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Vite App</title>
+  <link rel="stylesheet" href="css/tailwind.css">
+  <script type="module" src="js/main.js" defer></script>
+</head>
+
+<body>
+  <header class="bg-slate-800 w-full py-12 px-10 flex justify-between sticky top-0 items-center">
+    <h1 class="text-white font-bold text-[2rem]">Produce Deluxe</h1>
+    <nav>
+      <ul class="flex justify-end gap-12 text-lg font-semibold text-white">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="#">Receipes</a></li>
+        <li><a href="#">Newsletter</a></li>
+        <li><a href="#">Cart</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <div class="max-w-[75rem] mx-auto my-12">
+    <section id="cards" class="flex flex-wrap gap-6 justify-between"></section>
+  </div>
+
+  <footer class="bg-slate-800 py-8 px-10 flex justify-between items-center">
+    <p class="text-white font-bold text-2xl text-center">Cole McArthur | DMIT 2008 OE01</p>
+    <div class="flex flex-col gap-6">
+      <p class="text-white font-bold text-center">Built Using</p>
+      <div class="flex justify-center gap-6">
+        <a href="https://vitejs.dev" target="_blank">
+          <img src="/vite.svg" class="w-[4rem]" alt="Vite logo" />
+        </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+          <img src="/javascript.svg" class="w-[4rem]" alt="JavaScript logo" />
+        </a>
+      </div>
+    </div>
+  </footer>
+</body>
+
+</html>
