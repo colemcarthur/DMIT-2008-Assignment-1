@@ -2,6 +2,8 @@
 
 #project
 /keys
+/resources
+/docs
 
 # dependencies
 /node_modules
