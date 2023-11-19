@@ -7,7 +7,7 @@ import {serviceKey} from "@/config/serviceKey"
     credential: admin.credential.cert(serviceKey),
     databaseURL: "https://dmit-2008-assignment-2-default-rtdb.firebaseio.com/",
     databaseAuthVariableOverride: {
-      uid: "coleiscool"
+      uid: "peppersarecool"
     }
   });
  }
