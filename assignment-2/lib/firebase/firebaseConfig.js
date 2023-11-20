@@ -15,5 +15,5 @@ import {serviceKey} from "@/config/serviceKey"
 // app/api/test/route.js
 const db = admin.database()
  
-export {db}
+export { db }
  

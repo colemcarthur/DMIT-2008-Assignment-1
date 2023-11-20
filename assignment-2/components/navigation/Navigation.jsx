@@ -1,23 +1,30 @@
+"use client"
+import Link from 'next/link'
 import Image from 'next/image'
-import pepperLogo from "@/public/img/pepper_logo.png"
+import { usePathname } from 'next/navigation'
+import pepperLogo from "@/public/img/pepper_logo.webp"
 
-function Navigation({ children }) {
+function Navigation() {
+  const pathname = usePathname()
+
   return (
-    <div className='p-4 px-10 bg-stone-900 font-bold'>
+    <div className='p-4 px-10 bg-stone-900 text-stone-300 shadow-md shadow-stone-950'>
       <div className='flex items-center justify-between max-w-[80rem] m-auto'>
-        <div className="flex items-center gap-2">
-          <Image src={pepperLogo} alt="Pepper Plus Logo" className='w-[5rem] h-[5rem]' />
-          <h1 className="text-red-600 text-xl">Peppers Plus</h1>
-        </div>
+        <Link href="/">
+          <div className="flex items-center gap-2 font-bold">
+            <Image src={pepperLogo} alt="Pepper Plus Logo" className='w-[5rem] h-[5rem]' />
+            <h1 className="text-xl">Peppers Plus</h1>
+          </div>
+        </Link>
+
         <nav>
-          <ul className='flex gap-4 items-center text-stone-300'>
-            <li>Home</li>
-            <li>Shop</li>
-            <li>Cart</li>
+          <ul className='flex gap-12 items-centertext-lg font-semibold'>
+            <li><Link href="/" className={pathname === '/' ? 'underline underline-offset-4 decoration-[.125rem] font-bold' : ''}>Home</Link></li>
+            <li><Link href="/shop" className={pathname === '/shop' ? 'underline underline-offset-4 decoration-[.125rem] font-bold' : ''}>Shop</Link></li>
           </ul>
         </nav>
       </div>
-    </div>
+    </div >
   )
 }
 
